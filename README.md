@@ -1,19 +1,9 @@
 # Coding-Practice
-<img src="https://i.imgur.com/eqrAtGM.png" align="right"
-     alt="Logo" width="150" height="150">
-
 # 30-Days-6-Companies
 30 Days 6 Companies Challenge
 [Question's Doc](https://bit.ly/30Days6CompanyWCE)
 
 <br/>
-
-![](https://img.shields.io/github/forks/Codechef-WCE-Chapter/30-Days-6-Companies.svg)
-![](https://img.shields.io/github/stars/Codechef-WCE-Chapter/30-Days-6-Companies.svg)
-![](https://img.shields.io/github/watchers/Codechef-WCE-Chapter/30-Days-6-Companies.svg)
-![](https://img.shields.io/github/issues-pr/Codechef-WCE-Chapter/30-Days-6-Companies.svg)
-![](https://img.shields.io/github/issues-pr-closed/Codechef-WCE-Chapter/30-Days-6-Companies.svg)
-
 # Index
 - ⬜ : Unsolved
 - ✔️ : Solved
@@ -26,9 +16,9 @@
 ### Day 1
 | Problem No. | Check | Problem | Solution  |
 | :---: | :--------:  | :---------: | :---------: |
-| 1   | ✔️ | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](https://leetcode.com/playground/4XLytoSG) |
-| 2   | ✔️ | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | [Solution](https://leetcode.com/playground/MZxoWTtb) |
-| 3   | ✔️ | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Solution](https://leetcode.com/playground/e4XJck6f) |
+| 1   | ⬜ | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](https://leetcode.com/playground/4XLytoSG) |
+| 2   | ⬜ | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | [Solution](https://leetcode.com/playground/MZxoWTtb) |
+| 3   | ⬜ | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Solution](https://leetcode.com/playground/e4XJck6f) |
 
 
 ### Day 2
